@@ -1,6 +1,8 @@
-function add() {
-  
+function add(a, b) {
+  return a + b;
 }
+a = 26;
+b = 59;
 
 function subtract() {
   
