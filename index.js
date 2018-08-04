@@ -1,8 +1,9 @@
 function add(a, b) {
+  a = 26;
+  b = 59;
   return a + b;
 }
-a = 26;
-b = 59;
+
 
 function subtract() {
   
